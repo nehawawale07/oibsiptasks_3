@@ -20,7 +20,7 @@ The **Email Spam Detection System** is a machine learning-based project designed
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/email-spam-detection.git
+   git clone https://github.com/nehawawale07/email-spam-detection.git
    cd email-spam-detection
    ```
 2. Install dependencies:
@@ -31,9 +31,6 @@ The **Email Spam Detection System** is a machine learning-based project designed
    ```bash
    python main.py
    ```
-
-## Dataset
-The model is trained on the **SpamAssassin Public Corpus** or any other publicly available spam dataset. Make sure to include the dataset in the `data/` directory before running the training script.
 
 ## Usage
 - **Training:**
@@ -62,5 +59,5 @@ Feel free to fork this repository, create new branches, and submit pull requests
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any queries or suggestions, contact [Neha Wawale](mailto:your-email@example.com).
+For any queries or suggestions, contact [wawaleneha07@gmail.com).
 
